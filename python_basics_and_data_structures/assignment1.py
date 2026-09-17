@@ -1,3 +1,4 @@
+# Student Management Data 
 students = {'stud_001': {
     'name': 'Abanda Glory',
     'age': 23,
@@ -18,4 +19,6 @@ students = {'stud_001': {
         'skills': ['PostgreSQL', 'MySQL', 'Oracle']
         }}
 
+# Print information for all students
 print(students)
+
